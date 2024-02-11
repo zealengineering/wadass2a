@@ -1,0 +1,4 @@
+name-amol
+class te
+sub wad
+this is file 1
